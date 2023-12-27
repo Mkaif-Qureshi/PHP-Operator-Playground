@@ -53,7 +53,8 @@ OperatorPlayground: Explore PHP operators! This interactive web app covers arith
 <img width="aut0" alt="image" src="https://github.com/Mkaif-Qureshi/PHP-Operator-Playground/assets/86159667/57f28d35-16c4-4abb-a0c9-849c545583ff">  
 <img width="960" alt="image" src="https://github.com/Mkaif-Qureshi/PHP-Operator-Playground/assets/86159667/65450f44-f056-42aa-b3ab-470bed7e6ec5">  
 <img width="960" alt="image" src="https://github.com/Mkaif-Qureshi/PHP-Operator-Playground/assets/86159667/5eebbdab-d87f-4e8f-89a7-f51fd9f0b41c">  
-<img width="960" alt="image" src="https://github.com/Mkaif-Qureshi/PHP-Operator-Playground/assets/86159667/0b511a19-ca13-4a71-bf93-766a182a53ee">  
+<img width="960" alt="image" src="https://github.com/Mkaif-Qureshi/PHP-Operator-Playground/assets/86159667/8ba8f962-c14d-42f5-9c83-4771ebe0234e">
+
 
 
 ## Usage
