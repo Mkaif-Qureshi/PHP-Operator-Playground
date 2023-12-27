@@ -59,8 +59,42 @@ OperatorPlayground: Explore PHP operators! This interactive web app covers arith
 
 ## Usage
 
-Explain how to use your web app, perhaps with code snippets or examples.
+Certainly! To use the OperatorPlayground web app with XAMPP:
+
+1. **Clone the Repository:**
+   ```
+   git clone https://github.com/Mkaif-Qureshi/PHP-Operator-Playground.git
+   ```
+
+2. **Move Files:**
+   - Place the cloned folder (PHP-Operator-Playground) inside the `htdocs` folder of your XAMPP installation directory.
+
+3. **Start XAMPP:**
+   - Open XAMPP Control Panel and start the Apache server.
+
+4. **Access via Browser:**
+   - Open a web browser and enter `http://localhost/PHP-Operator-Playground` in the address bar.
+
+5. **Explore PHP Operators:**
+   - Once the web app is loaded, you'll see the OperatorPlayground interface.
+   - Select the operator category you want to explore (arithmetic, comparison, logical, or array).
+   - Input values and experiment with different operators to understand their behavior.
+
+6. **Interact and Learn:**
+   - Use the interactive features to test various operators and see their results.
+   - This platform is perfect for learning and testing PHP operators.
+
+By following these steps, you'll be able to run the OperatorPlayground web app using XAMPP and explore different PHP operators interactively.
 
 ## Contributing
 
-Explain how others can contribute to your project, such as reporting issues or submitting pull requests.
+Contributions are welcome and encouraged! If you'd like to contribute to **OperatorPlayground**, please follow these guidelines:
+
+1. **Fork** the repository and clone it locally.
+
+2. Create a new branch for your contribution:
+   ```bash
+   git checkout -b feature/YourFeatureName
+
+
+Happy coding!!!
