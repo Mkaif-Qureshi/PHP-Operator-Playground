@@ -46,13 +46,20 @@ OperatorPlayground: Explore PHP operators! This interactive web app covers arith
 
 ## Screenshots
 
-<img width="960" alt="image" src="https://github.com/Mkaif-Qureshi/PHP-Operator-Playground/assets/86159667/aa600cfd-0399-48f3-95d3-dd3c58d2e7f8">  
+<img width="960" alt="image" src="https://github.com/Mkaif-Qureshi/PHP-Operator-Playground/assets/86159667/4491d587-f13e-46e0-b91f-1d181eb85710">  
+
 <img width="960" alt="image" src="https://github.com/Mkaif-Qureshi/PHP-Operator-Playground/assets/86159667/dc1f71ff-be27-4459-9c54-73960ea4bc41">  
+
 <img width="960" alt="image" src="https://github.com/Mkaif-Qureshi/PHP-Operator-Playground/assets/86159667/be1c7662-1902-4508-aa57-71809f6216b7">  
+
 <img width="960" alt="image" src="https://github.com/Mkaif-Qureshi/PHP-Operator-Playground/assets/86159667/14c29a36-8cf6-46c6-9afd-2bc59f4a559d">  
+
 <img width="aut0" alt="image" src="https://github.com/Mkaif-Qureshi/PHP-Operator-Playground/assets/86159667/57f28d35-16c4-4abb-a0c9-849c545583ff">  
+
 <img width="960" alt="image" src="https://github.com/Mkaif-Qureshi/PHP-Operator-Playground/assets/86159667/65450f44-f056-42aa-b3ab-470bed7e6ec5">  
+
 <img width="960" alt="image" src="https://github.com/Mkaif-Qureshi/PHP-Operator-Playground/assets/86159667/5eebbdab-d87f-4e8f-89a7-f51fd9f0b41c">  
+
 <img width="960" alt="image" src="https://github.com/Mkaif-Qureshi/PHP-Operator-Playground/assets/86159667/0964f0eb-d1b8-48d7-810f-b3d7e0df97bb">
 
 
